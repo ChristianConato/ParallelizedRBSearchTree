@@ -1,0 +1,89 @@
+BROZZI Juan (ARG)	
+1382: Referee
+1386: Assistant2
+1387: Referee
+1437: Assistant1
+
+CASTRILLI Javier (ARG)	
+8780: Referee
+8729: Referee
+
+COEREZZA Norberto Angel (ARG)	
+1765: Assistant2
+2394: Assistant1
+2351: Referee
+1823: Assistant1
+2221: Assistant1
+1752: Referee
+1811: Referee
+
+COMESANA Miguel (ARG)	
+2388: Assistant2
+2351: Assistant2
+2348: Assistant1
+2349: Assistant2
+2352: Assistant1
+
+ESPOSITO Carlos (ARG)	
+378: Assistant2
+428: Referee
+568: Referee
+533: Assistant1
+
+GOICOECHEA Roberto (ARG)	
+1599: Referee
+1602: Assistant1
+
+ITHURRALDE Arturo Andres (ARG)	
+901: Referee
+962: Assistant2
+903: Assistant2
+2246: Assistant2
+2220: Assistant1
+2351: Assistant1
+2337: Assistant1
+
+LAMOLINA Francisco Oscar (ARG)	
+3078: Referee
+3051: Referee
+
+LOUSTAU Juan (ARG)	
+196: Referee
+56: Referee
+175: Assistant2
+127: Referee
+
+MACIAS Jose (ARG)	
+1090: Referee
+1089: Assistant1
+1097: Referee
+
+PESTARINO Luis (ARG)	
+2352: Assistant2
+2167: Assistant2
+2062: Assistant2
+1986: Assistant2
+2391: Assistant1
+2182: Referee
+2454: Assistant1
+
+ROSSI Claudio (ARG)	
+8761: Assistant2
+8744: Assistant2
+8729: Assistant1
+8780: Assistant1
+
+TAIBI Ernesto (ARG)	
+3078: Assistant1
+3082: Assistant2
+3091: Assistant1
+3103: Assistant2
+3051: Assistant1
+3060: Assistant2
+
+VENTRE Luis Antonio (ARG)	
+1511: Assistant1
+1458: Assistant2
+1507: Assistant2
+1510: Assistant2
+
